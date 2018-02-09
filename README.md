@@ -2,6 +2,8 @@
 
 Write a short  MATLAB GUI to allow the user to explore the fractal of the Mandelbrot Set.
 
+![Fractals](Fractals.png)
+
 ## Given: 
 
 You can use the file mandelbrot.m, which can be called from the command line of MATLAB with
